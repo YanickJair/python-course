@@ -1,0 +1,6 @@
+name: courseplatform
+channels:
+  - defaults
+dependencies:
+  - streamlit
+prefix: /home/yannick/anaconda3/envs/courseplatform
